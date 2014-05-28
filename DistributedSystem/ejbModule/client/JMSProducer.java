@@ -3,12 +3,7 @@ package client;
 import javax.jms.*;
 import javax.naming.*;
 
-public class FlightRequestProducer {
-
-	
-	//////////////
-	
-	
+public class JMSProducer {	
 	
 	private QueueConnection qConn;
 	private QueueSession qSess;
