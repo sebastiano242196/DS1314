@@ -12,5 +12,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/sebastiano/DSEclipseProjects/swingx-1.6.zip"/>
+	<classpathentry kind="lib" path="/home/sebastiano/DSEclipseProjects/swingx-1.6/swingx-1.6.jar"/>
+	<classpathentry kind="lib" path="/home/sebastiano/DSEclipseProjects/swingx-1.6/swingx-beaninfo-1.6.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
